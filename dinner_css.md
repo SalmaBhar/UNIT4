@@ -19,4 +19,15 @@
 18. plate:nth-child(3)
 19. bento:nth-last-child(3)
 20. apple:first-of-type
-21. plate:
+21. plate:nth-of-type(2n)
+22. plate:nth-of-type(2n+3)
+23. plate apple.small:only-of-type
+24. orange:last-of-type, apple:last-of-type
+25. bento:empty
+26. apple:not(.small)
+27. [for]
+28. plate[for]
+29. [for="Vitaly"]
+30. [for^="Sa"]
+31. [for$="ato"]
+32. [for*="obb"]
