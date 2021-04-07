@@ -30,4 +30,9 @@
 29. [for="Vitaly"]
 30. [for^="Sa"]
 31. [for$="ato"]
-32. [for*="obb"]
+32. [for*="obb"] <br>
+
+![alt text](dinergame.png) <br> 
+
+## Reflection:
+This game was actually a lot of fun. I was a bit confused towards the beggining on what I am supposed to do, but then after reading the guide I started to get the hang of it. It is definetely a good way to practise CSS selection skills visually and it helped me significally understand how CSS works better.
