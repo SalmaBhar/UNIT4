@@ -9,13 +9,13 @@
         .page {
             background-color: dodgerblue;
         }
-        .texto{
+        .hidden_text{
             color: dodgerblue;
             font-family: Arial;
             font-size: large;
             font-weight: bold;
         }
-        .text{
+        .color{
             color: dodgerblue;
         }
         .title{
@@ -28,13 +28,13 @@
 </head>
 <body class="page">
     <p class="title">Hello! I am Salma. Guess My favourite color (Hint: highlight!)</p>
-    <p class="texto">If you said blue, you're wrong! it is:</p>
-    <p class="text"> ██████╗░██╗░░░██╗██████╗░██████╗░██╗░░░░░███████╗</p>
-    <p class="text"> ██╔══██╗██║░░░██║██╔══██╗██╔══██╗██║░░░░░██╔════╝</p>
-    <p class="text"> ██████╔╝██║░░░██║██████╔╝██████╔╝██║░░░░░█████╗░░</p>
-    <p class="text"> ██╔═══╝░██║░░░██║██╔══██╗██╔═══╝░██║░░░░░██╔══╝░░</p>
-    <p class="text"> ██║░░░░░╚██████╔╝██║░░██║██║░░░░░███████╗███████╗</p>
-    <p class="text"> ╚═╝░░░░░░╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚══════╝╚══════╝</p>
+    <p class="hidden_text">If you said blue, you're wrong! it is:</p>
+    <p class="color"> ██████╗░██╗░░░██╗██████╗░██████╗░██╗░░░░░███████╗</p>
+    <p class="color"> ██╔══██╗██║░░░██║██╔══██╗██╔══██╗██║░░░░░██╔════╝</p>
+    <p class="color"> ██████╔╝██║░░░██║██████╔╝██████╔╝██║░░░░░█████╗░░</p>
+    <p class="color"> ██╔═══╝░██║░░░██║██╔══██╗██╔═══╝░██║░░░░░██╔══╝░░</p>
+    <p class="color"> ██║░░░░░╚██████╔╝██║░░██║██║░░░░░███████╗███████╗</p>
+    <p class="color"> ╚═╝░░░░░░╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚══════╝╚══════╝</p>
 
 </body>
 </html>
