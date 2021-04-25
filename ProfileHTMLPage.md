@@ -2,7 +2,7 @@
 ![alt text](profile.png) <br> 
 ### HTML / CSS Code
 ```.html
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
