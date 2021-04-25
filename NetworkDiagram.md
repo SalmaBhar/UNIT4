@@ -6,7 +6,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Terminology</title>
+    <title>Network Diagram</title>
     <style>
         .page {
             background-color: ghostwhite;
