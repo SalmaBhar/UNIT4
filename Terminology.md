@@ -1,4 +1,4 @@
-# Terminology / Notes
+# Terminology Notes
 ![alt text](terminology.png) <br> 
 ### HTML Code
 ```.html
