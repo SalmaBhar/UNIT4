@@ -1,6 +1,6 @@
 # Quiz 28
 ### Webpage
-![alt text](web28.jpg) <br> 
+![alt text](web28.png) <br> 
 ### HTML Code
 ```.html
 <!DOCTYPE html>
