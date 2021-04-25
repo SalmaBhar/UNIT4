@@ -1,4 +1,6 @@
 # My Profile Website
+![alt text](profile.png) <br> 
+### HTML / CSS Code
 ```.html
 <!DOCTYPE html>
 <html lang="en">
