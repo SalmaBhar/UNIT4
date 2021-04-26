@@ -1,6 +1,6 @@
 # Quiz 32
 ### Webpage
-![alt text]() <br> 
+![alt text](web32.png) <br> 
 ### HTML Code
 ```.html
 <!DOCTYPE html>
