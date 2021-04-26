@@ -30,9 +30,9 @@
 <body class="page">
 <p class="title">Quiz 29</p>
 <p class="subtitle">Python Code</p>
-<img src=”q29.jpg” >
-<p class="subtitle">Flow Diagram</p>
-<img src=”flow29.jpg” >
+<img src=”q29.png” >
+<p class="subtitle">Pseudo-Code in Class</p>
+<img src=”pseudo29.jpg” >
 </body>
 </html>
 ```
