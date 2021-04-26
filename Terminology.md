@@ -1,5 +1,5 @@
 # Terminology Notes
-![alt text]() <br> 
+![alt text](terminology.png) <br> 
 ### HTML Code
 ```.html
 <!DOCTYPE html>
