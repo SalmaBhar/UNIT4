@@ -62,7 +62,14 @@
     <p class="text">The cd command, also known as chdir (change directory), is a command-line shell command used to change the current working directory in various operating systems.</p>
     <p class="terms">CHMOD</p>
     <p class="text">The chmod command is used to change the access mode of a file. The name is an abbreviation of change mode.</p>
-
+    <p class="terms">UDP</p>
+    <p class="text">User Datagram Protocol (UDP) a communications protocol that facilitates the exchange of messages between computing devices in a network. It's an alternative to the transmission control protocol (TCP). UDP is commonly used for applications that are “lossy” (can handle some packet loss), such as streaming audio and video.</p>
+    <p class="terms">TCP</p>
+    <p class="text">Transmission Control Protocol (TCP) a connection-oriented communications protocol that facilitates the exchange of messages between computing devices in a network.</p>
+    <p class="terms">NAS</p>
+    <p class="text">Network-attached storage (NAS) is a file-level (as opposed to block-level storage) computer data storage server connected to a computer network providing data access to a heterogeneous group of clients. NAS is specialized for serving files either by its hardware, software, or configuration.</p>
+    <p class="terms">RJ45</p>
+    <p class="text">RJ45 is a type of connector commonly used for Ethernet networking. The "RJ" in RJ45 stands for "registered jack," since it is a standardized networking interface. The "45" simply refers to the number of the interface standard. Each RJ45 connector has eight pins, which means an RJ45 cable contains eight separate wires.</p>
 </body>
 </html>
 ```
